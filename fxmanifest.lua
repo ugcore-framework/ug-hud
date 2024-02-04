@@ -7,7 +7,7 @@ name 'ug-hud'
 description 'HUD for UgCore Framework by UgDev'
 author 'UgDev'
 version '3.5'
-url 'https://github.com/UgDevOfc/ug-hud'
+url 'https://github.com/ugcore-framework/ug-hud'
 ui_page 'html/index.html'
 
 
