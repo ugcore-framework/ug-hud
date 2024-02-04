@@ -18,13 +18,14 @@ shared_scripts {
 	'uiconfig.lua'
 }
 
-client_script  {
+client_scripts  {
 	'client/main.lua',
 	'client/seatbelt.lua',
 	'client/cruise.lua'
 }
-server_script {
+server_scripts {
 	'server/main.lua',
+	'server/version.lua'
 }
 
 
